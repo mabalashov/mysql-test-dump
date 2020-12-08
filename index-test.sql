@@ -1,2 +1,0 @@
-EXPLAIN SELECT * FROM fakes WHERE name = 1703420;
-SELECT * FROM fakes WHERE name = 1703420;
